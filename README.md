@@ -35,8 +35,8 @@ A Streamlit app that generates images from text prompts using **Google Generativ
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/genai-image-generator.git
-    cd genai-image-generator
+    git clone https://github.com/HariJakku/Prompt-to-Pixel.git
+    cd Prompt-to-Pixel
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
