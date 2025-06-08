@@ -41,7 +41,7 @@ if st.button("✨ Generate Image"):
     else:
         with st.spinner("⏳ Generating Image... Please wait"):
             try:
-                client = genai.Client(api_key="AIzaSyAhrgDKB6NcsZiReJGelrXOhwQHyOM_s9c")  
+                client = genai.Client(api_key="Your-api-key")  
                 response = client.models.generate_content(
                     model="gemini-2.0-flash-preview-image-generation",
                     contents=contents,
