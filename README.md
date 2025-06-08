@@ -70,7 +70,7 @@ streamlit run img_gen.py
 
 **Generated Image:**  
 
-![Sample Generated Image](assets/gemini-native-image.PNG)
+![Sample Generated Image](assets/gemini-native-image.png)
 
 ---
 
