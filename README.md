@@ -74,15 +74,10 @@ streamlit run img_gen.py
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 👤 Author
 
-**KUMARSWAMI Jakku**  
+**KUMARSWAMI JAKKU**  
 B.Tech Computer Science | AI Enthusiast | Full Stack Developer  
 📧 harijakku2005@gmail.com  
 🌐 [GitHub](https://github.com/HariJakku) | [LinkedIn](https://linkedin.com/in/hari-jakku-189921278/)
