@@ -19,3 +19,4 @@ python-dotenv
 flask
 nltk
 scikit-learn
+google-genai
